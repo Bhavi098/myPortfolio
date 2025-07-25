@@ -9,11 +9,11 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Bhavishnu </span>
-            from <span className="purple"> Coimbatore, India.</span>
+            from <span className="purple"> Coimbatore, India . </span>
             {/* <br />
             I am currently employed as a software developer at Juspay.
             <br /> */}
-            I’m a final-year Computer Science student at Sri Shakthi Institute of Engineering and Technology, with a strong interest in [Key Interest or Field].
+            I’m a final-year Computer Science student at Sri Shakthi Institute of Engineering and Technology, with a strong interest in Software Development . 
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
